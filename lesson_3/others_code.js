@@ -95,3 +95,5 @@ console.log(cleanPhoneNumber('+5 (956)-999-5448'));   // return 0000000000
 console.log(cleanPhoneNumber(''));                  // return 0000000000
 console.log(cleanPhoneNumber());                    // return 0000000000
 console.log(cleanPhoneNumber(['867 980 1000']));    // return 0000000000
+
+console.log('Hello World');
